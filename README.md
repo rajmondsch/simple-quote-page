@@ -1,2 +1,2 @@
-# proba-repo
-Próba
+# simple-quote-page
+simple-quote-page
